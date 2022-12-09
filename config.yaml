@@ -58,7 +58,7 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - 00-before-we-start.md
 - 01-short-introduction-to-Python.md
 - 02-starting-with-data.md
@@ -71,13 +71,13 @@ episodes:
 - 09-working-with-sql.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
@@ -87,3 +87,5 @@ profiles:
 
 url: https://preview.carpentries.org/python-ecology-lesson-es
 workbench-beta: 'true'
+pre-beta-date: '2022-12-12'
+old-url: 'https://datacarpentry.github.io/python-ecology-lesson-es'
