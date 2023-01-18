@@ -46,7 +46,7 @@ Para el uso efectivo de este material, por favor instala todo
 ## Para instructores
 
 Si enseñas esta lección en un taller, por favor lee las
-[Notas de instructor](guide/index.html).
+[Notas de instructor](instructor-notes.html).
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
